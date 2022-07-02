@@ -1,24 +1,32 @@
 body {
-  background: #eee;
+  background: rgb(110, 110, 110);
   font-family: sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  border: 1px solid red;
+  padding: 10px;
 }
 
 .title {
   background: #e3f4ff;
+  border: 1px solid red;
 }
 
 .content {
   background: #e3f4ff;
+  border: 1px solid red;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  border: 1px solid red;
 }
 
 button {
