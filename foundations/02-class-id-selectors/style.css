@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(252, 67, 98);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id-one {
+    color: rgb(37, 37, 214);
+    font-size: 36px;
+}
+.third {
+    font-size: 24px;
+}
+#id-four {
+    background-color: rgb(153, 238, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
